@@ -5,4 +5,5 @@ Git is free software distributed under the GPL
 jkjlkdjkjkhsjf.
 
 Git tracks changes.
+Git tracks changes of files.
 
